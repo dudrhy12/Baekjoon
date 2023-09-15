@@ -27,6 +27,7 @@
 | 2 | 완전 탐색 | [Exhaustive Search](https://y-seo.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%8C%8C%EC%9D%B4%EC%8D%AC-Exhaustive-Search-%EC%99%84%EC%A0%84-%ED%83%90%EC%83%89) | 3085, 2503, 15787, 11729 |
 | 3 | 이진 탐색 | [Binary Search](https://y-seo.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Binary-Search-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89) | 2512, 19637, 2805, 6236 |
 | 4 | DFS&BFS | [DFS & BFS](https://y-seo.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%8C%8C%EC%9D%B4%EC%8D%AC-DFSBFS-%EA%B9%8A%EC%9D%B4%EB%84%88%EB%B9%84%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89) |
+| 5 | 투 포인터| | 1940 |
 
 
 <br>
