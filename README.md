@@ -8,11 +8,10 @@
 ## Rule
 
 - 주언어 : Python
-- 방학 : 최소 1일 1문제
-- 학기 :
+- 양 : 1일 1문제
 - 루틴 : 특정 주제 공부 → 문제 풀이
 - 주제별 문제 개수 : 3-5문제, 스스로 감이 올 때까지
-- 주제 공부 방법 : 이코테 + 블로그
+- 주제 공부 방법 : 이코테 + 구글링
 - 문제 선정 방법 : 티어보다 조금 높게
 
 
@@ -27,7 +26,7 @@
 | 2 | 완전 탐색 | [Exhaustive Search](https://y-seo.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%8C%8C%EC%9D%B4%EC%8D%AC-Exhaustive-Search-%EC%99%84%EC%A0%84-%ED%83%90%EC%83%89) | 3085, 2503, 15787, 11729 |
 | 3 | 이진 탐색 | [Binary Search](https://y-seo.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-Binary-Search-%EC%9D%B4%EC%A7%84-%ED%83%90%EC%83%89) | 2512, 19637, 2805, 6236 |
 | 4 | DFS&BFS | [DFS & BFS](https://y-seo.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%ED%8C%8C%EC%9D%B4%EC%8D%AC-DFSBFS-%EA%B9%8A%EC%9D%B4%EB%84%88%EB%B9%84%EC%9A%B0%EC%84%A0-%ED%83%90%EC%83%89) |
-| 5 | 투 포인터| | 1940 |
+| 5 | 투 포인터| [Two Pointers](https://y-seo.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%88%AC-%ED%8F%AC%EC%9D%B8%ED%84%B0Two-Pointers) | 1940, 20922, 2559 |
 
 
 <br>
